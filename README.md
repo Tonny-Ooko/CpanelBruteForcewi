@@ -1,2 +1,2 @@
 # CpanelBruteForcewi
-To bypass cpanel ligin without having the login credentials
+To bypass cpanel login without having the login credentials
